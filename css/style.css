@@ -1,0 +1,28 @@
+.logo{
+	background-color: red;
+	min-height: 100px;
+
+}
+
+
+.banner{
+
+
+	background-color: green;
+	min-height:100px;
+	width: 63.5%;
+	float: right;
+}
+
+.bodyarea{
+background-color: yellow;
+	min-height:700px;
+	width: 63.5%;
+	float: right;
+
+}
+.footer{
+	background-color: purple;
+	min-height: 80px;
+	clear:both;
+}
